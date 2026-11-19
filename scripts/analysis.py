@@ -108,7 +108,7 @@ o.to_pickle('/tmp/sc_o.pkl')
 cols=['pop2025','pop2020base','region','cog','flag','reg_2022','ballots_2022','dem_2022','rep_2022','other_2022','govtotal_2022','prim_dem_2022','prim_rep_2022','prim_ballots_2022','S22','P22','G22',
       'reg_2026','ballots_2026','dem_2026','rep_2026','other_2026','govtotal_2026','prim_dem_2026','prim_rep_2026','prim_ballots_2026','S26','P26','G26','dS','dP','dG','loss','residual','implied_extra_votes','gap_primary_scaled','fit22','res22','fit26','res26']
 out=o[cols].copy(); out.insert(0,'proxy_label','PROXY: Democratic primary-ballot share, not official party registration (SC has no party registration)')
-out.insert(1,'status_2026','2026 certified by SC State Board of Canvassers 11/11/2026; SEC ENR v386661 (11/10/2026 5:20 PM EST)')
+out.insert(1,'status_2026','2026 UNOFFICIAL; SEC ENR election 127300 version 386661 (11/10/2026 5:20 PM EST)')
 out.round(6).to_csv(O+'data/SC_Governor_2022_2026_DeltaG_by_County.csv')
 J=dict(fits=F,narrow=NARROW,regions=RG,K=K,pooled=PO,overballot=TX)
 json.dump(J,open(O+'data/SC_results_summary.json','w'),indent=1,default=lambda x: x.item() if hasattr(x,'item') else str(x))

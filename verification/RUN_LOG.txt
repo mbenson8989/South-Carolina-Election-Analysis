@@ -2,5 +2,6 @@
 46 counties x 18 figures
 ok
 built
-wiki table rows 46, checks 690, FAIL 0
+tables [('2022 inputs', 46), ('2026\\* inputs', 46), ('Shares and ΔG', 46)]
+checks 690, FAIL 0
 compare: 828 comparisons 827 matched 1 mismatched; analysis-figure mismatches: 0

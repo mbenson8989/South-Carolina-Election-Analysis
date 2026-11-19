@@ -9,7 +9,7 @@ County-level analysis of the South Carolina governor race, 2022 vs 2026, for all
 - **G** = S − P; **ΔG** = G2026 − G2022; residual = ΔG − |ΔP| for counties whose Democratic primary votes fell; implied extra votes = D2026 − S2022 × ballots2026
 - **SC-only constants** (G = m·P/100 + b, 46 counties): 2022 m = -59.93, b = +24.03; 2026 m = -42.80, b = +20.35
 
-**Status:** 2022 results are certified. 2026 results are certified by the SC State Board of Canvassers (Nov 11, 2026); the data is SEC results version 386661.
+**Status:** 2022 results are official. **2026 figures are unofficial** (SEC results-site election 127300, version 386661, 11/10/2026 5:20 PM EST), marked with \* on the wiki.
 
 ## Contents
 
@@ -19,7 +19,7 @@ County-level analysis of the South Carolina governor race, 2022 vs 2026, for all
 | `data/SC_Governor_2022_2026_DeltaG_by_County.csv` | All 46 counties, every input and computed figure, sorted by population |
 | `data/SC_results_summary.json` | Fits, narrowed fits, regional tests, floor and ceiling, over-ballot checks |
 | `verification/` | Pass A and Pass B county tables, the figure-by-figure comparison (828 comparisons, 827 matched), the run log |
-| `raw/` | Untouched SEC files: state results for 4 elections, 46 county results sites × 4 elections, certification minutes, scvotes.gov registration page, Census file |
+| `raw/` | Untouched SEC files: state results for 4 elections, 46 county results sites × 4 elections, State Board of Canvassers minutes of 11/11/2026, scvotes.gov registration page, Census file |
 | `scripts/` | `run_all.sh` → `pass_a.py` (state detail.xml, XML parser) · `pass_b.py` (county sites: summary.csv, plus detail.xml/detail.txt via regex) · `compare_passes.py` · `analysis.py` · `charts.py` · `build_wiki.py` · `verify_wiki.py` |
 
 ## Verification

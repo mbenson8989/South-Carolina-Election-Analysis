@@ -4,7 +4,7 @@ O='/workspace/south-carolina-elections/repo/'; o=pd.read_pickle('/tmp/sc_o.pkl')
 N=len(o); x=np.arange(N); names=list(o.index); DPI=150
 FOOT=("PROXY: Democratic primary-ballot share, not official party registration (SC has no party registration). P = Dem governor-primary votes ÷ (Dem + Rep governor-primary votes), June primaries.\n"
       "S = Dem governor votes ÷ total ballots cast. G = S − P. Source: SC Election Commission ENR (enr-scvotes.org) elections 115412, 127300, 114143, 126294. "
-      "2022 certified; 2026 certified by the State Board of Canvassers 11/11/2026. Population: Census Vintage 2025 (sort order only).")
+      "2022 official; 2026 UNOFFICIAL (SEC results version 386661, 11/10/2026). Population: Census Vintage 2025 (sort order only).")
 def foot(fig):
     wd=int(fig.get_figwidth()*17); fig.text(0.01,0.005,'\n'.join(textwrap.fill(l,wd) for l in FOOT.split('\n')),fontsize=7,color='#444',va='bottom')
 CEIL=J['K']['ceiling']; FLOOR=J['K']['floor']; NAR=J['narrow']['counties']
