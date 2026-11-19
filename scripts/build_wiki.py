@@ -99,6 +99,24 @@ lock=f"""# Locked South Carolina Formula
 
 {BANNER}
 
+## South Carolina equation (final, fitted)
+
+These are the equations South Carolina actually uses, fit by least squares across all 46 counties from South Carolina data only. *PROXY: Democratic primary-ballot share, not official party registration (SC has no party registration).*
+
+**South Carolina reverse-factoring equation (2022 → 2026{S}):**
+
+**ΔG = {d['b']:+.2f} + {-d['m']/100:.3f} × (primary proxy drop)**
+
+- **Constant:** {d['b']:+.2f} points (SE {d['b_se']:.2f}), the statewide rise in Democratic vote share once the proxy change is taken out.
+- **Multiplier:** {-d['m']/100:.3f} (SE {d['m_se']/100:.3f}) per point of proxy drop.
+- **Primary proxy drop** = P(2022) − P(2026{S}), in percentage points. A county whose Democratic primary share fell has a positive drop; a county whose share rose has a negative drop.
+- Fit: n = {d['n']}, R² {d['r2']:.3f}, residual SE {d['resid_se']:.2f} points.
+
+**South Carolina forward equations (G from the proxy, by year):**
+
+- **2022:** G = {F['2022']['b']:+.2f} {F['2022']['m']:+.2f} × (P ÷ 100) (R² {F['2022']['r2']:.3f})
+- **2026{S}:** G = {F['2026']['b']:+.2f} {F['2026']['m']:+.2f} × (P ÷ 100) (R² {F['2026']['r2']:.3f})
+
 ## The equation
 
 - **S** (Democratic vote share) = Democratic governor votes ÷ total ballots cast (SEC county turnout) × 100
