@@ -1,0 +1,1519 @@
+{
+ "vote_sources": {
+  "Abbeville": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Aiken": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Allendale": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Anderson": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Bamberg": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Barnwell": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Beaufort": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Berkeley": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Calhoun": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Charleston": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Cherokee": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Chester": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Chesterfield": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Clarendon": {
+   "2022": "county detail.txt",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Colleton": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Darlington": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Dillon": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Dorchester": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Edgefield": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Fairfield": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Florence": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Georgetown": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Greenville": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Greenwood": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Hampton": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Horry": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Jasper": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Kershaw": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Lancaster": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Laurens": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Lee": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county detail.xml (regex)"
+  },
+  "Lexington": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Marion": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Marlboro": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "McCormick": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Newberry": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Oconee": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Orangeburg": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Pickens": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Richland": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Saluda": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Spartanburg": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Sumter": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Union": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "Williamsburg": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  },
+  "York": {
+   "2022": "county summary.csv",
+   "2022_primary": "county summary.csv",
+   "2026": "county summary.csv",
+   "2026_primary": "county summary.csv"
+  }
+ },
+ "turnout_sources": {
+  "Abbeville": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.txt Total: row Abbeville_114144_297347_detailtxt.zip",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Aiken": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Allendale": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Anderson": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Bamberg": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Barnwell": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Beaufort": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Berkeley": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Calhoun": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Charleston": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Cherokee": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Chester": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Chesterfield": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Clarendon": {
+   "2022": "county detail.txt Total: row Clarendon_115426_319025_detailtxt.zip",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Colleton": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Darlington": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Dillon": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Dorchester": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Edgefield": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Fairfield": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Florence": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Georgetown": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Greenville": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Greenwood": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Hampton": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Horry": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Jasper": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Kershaw": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Lancaster": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Laurens": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Lee": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Lexington": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Marion": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Marlboro": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "McCormick": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Newberry": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Oconee": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Orangeburg": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Pickens": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Richland": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Saluda": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Spartanburg": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Sumter": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Union": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "Williamsburg": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  },
+  "York": {
+   "2022": "county detail.xml VoterTurnout",
+   "2022_primary": "county detail.xml VoterTurnout",
+   "2026": "county detail.xml VoterTurnout",
+   "2026_primary": "county detail.xml VoterTurnout"
+  }
+ },
+ "notes": [
+  {
+   "county": "Clarendon",
+   "election": "2022",
+   "versions_compared": [
+    [
+     "Clarendon_115426_313514_detailtxt.zip",
+     {
+      "REP": 6374,
+      "LIB": 89,
+      "DEM": 4983,
+      "NON": 11
+     },
+     [
+      0
+     ],
+     [
+      11635
+     ]
+    ],
+    [
+     "Clarendon_115426_319025_detailtxt.zip",
+     {
+      "REP": 6374,
+      "LIB": 89,
+      "DEM": 4983,
+      "NON": 11
+     },
+     [
+      21942
+     ],
+     [
+      11635
+     ]
+    ]
+   ],
+   "identical": false
+  }
+ ],
+ "summary_csv_contest_level_reg_ballots": [
+  {
+   "county": "Abbeville",
+   "election": "2022",
+   "summary_reg": [
+    15893
+   ],
+   "summary_ballots": [
+    8666
+   ]
+  },
+  {
+   "county": "Aiken",
+   "election": "2022",
+   "summary_reg": [
+    115452
+   ],
+   "summary_ballots": [
+    55366
+   ]
+  },
+  {
+   "county": "Allendale",
+   "election": "2022",
+   "summary_reg": [
+    5129
+   ],
+   "summary_ballots": [
+    1893
+   ]
+  },
+  {
+   "county": "Anderson",
+   "election": "2022",
+   "summary_reg": [
+    124752
+   ],
+   "summary_ballots": [
+    63886
+   ]
+  },
+  {
+   "county": "Bamberg",
+   "election": "2022",
+   "summary_reg": [
+    9614
+   ],
+   "summary_ballots": [
+    4061
+   ]
+  },
+  {
+   "county": "Barnwell",
+   "election": "2022",
+   "summary_reg": [
+    14584
+   ],
+   "summary_ballots": [
+    6427
+   ]
+  },
+  {
+   "county": "Beaufort",
+   "election": "2022",
+   "summary_reg": [
+    137818
+   ],
+   "summary_ballots": [
+    72326
+   ]
+  },
+  {
+   "county": "Berkeley",
+   "election": "2022",
+   "summary_reg": [
+    147591
+   ],
+   "summary_ballots": [
+    72067
+   ]
+  },
+  {
+   "county": "Calhoun",
+   "election": "2022",
+   "summary_reg": [
+    10272
+   ],
+   "summary_ballots": [
+    5707
+   ]
+  },
+  {
+   "county": "Charleston",
+   "election": "2022",
+   "summary_reg": [
+    259481
+   ],
+   "summary_ballots": [
+    154386
+   ]
+  },
+  {
+   "county": "Cherokee",
+   "election": "2022",
+   "summary_reg": [
+    33298
+   ],
+   "summary_ballots": [
+    16281
+   ]
+  },
+  {
+   "county": "Chester",
+   "election": "2022",
+   "summary_reg": [
+    21992
+   ],
+   "summary_ballots": [
+    9719
+   ]
+  },
+  {
+   "county": "Chesterfield",
+   "election": "2022",
+   "summary_reg": [
+    26084
+   ],
+   "summary_ballots": [
+    12776
+   ]
+  },
+  {
+   "county": "Clarendon",
+   "election": "2022",
+   "summary_reg": [
+    21942
+   ],
+   "summary_ballots": [
+    11635
+   ]
+  },
+  {
+   "county": "Colleton",
+   "election": "2022",
+   "summary_reg": [
+    27671
+   ],
+   "summary_ballots": [
+    12775
+   ]
+  },
+  {
+   "county": "Darlington",
+   "election": "2022",
+   "summary_reg": [
+    41261
+   ],
+   "summary_ballots": [
+    20313
+   ]
+  },
+  {
+   "county": "Dillon",
+   "election": "2022",
+   "summary_reg": [
+    17640
+   ],
+   "summary_ballots": [
+    8072
+   ]
+  },
+  {
+   "county": "Dorchester",
+   "election": "2022",
+   "summary_reg": [
+    119670
+   ],
+   "summary_ballots": [
+    50159
+   ]
+  },
+  {
+   "county": "Edgefield",
+   "election": "2022",
+   "summary_reg": [
+    17761
+   ],
+   "summary_ballots": [
+    8922
+   ]
+  },
+  {
+   "county": "Fairfield",
+   "election": "2022",
+   "summary_reg": [
+    15752
+   ],
+   "summary_ballots": [
+    8569
+   ]
+  },
+  {
+   "county": "Florence",
+   "election": "2022",
+   "summary_reg": [
+    82318
+   ],
+   "summary_ballots": [
+    41893
+   ]
+  },
+  {
+   "county": "Georgetown",
+   "election": "2022",
+   "summary_reg": [
+    48427
+   ],
+   "summary_ballots": [
+    27750
+   ]
+  },
+  {
+   "county": "Greenville",
+   "election": "2022",
+   "summary_reg": [
+    341542
+   ],
+   "summary_ballots": [
+    179296
+   ]
+  },
+  {
+   "county": "Greenwood",
+   "election": "2022",
+   "summary_reg": [
+    40056
+   ],
+   "summary_ballots": [
+    22020
+   ]
+  },
+  {
+   "county": "Hampton",
+   "election": "2022",
+   "summary_reg": [
+    12040
+   ],
+   "summary_ballots": [
+    5812
+   ]
+  },
+  {
+   "county": "Horry",
+   "election": "2022",
+   "summary_reg": [
+    258604
+   ],
+   "summary_ballots": [
+    134795
+   ]
+  },
+  {
+   "county": "Jasper",
+   "election": "2022",
+   "summary_reg": [
+    24419
+   ],
+   "summary_ballots": [
+    11278
+   ]
+  },
+  {
+   "county": "Kershaw",
+   "election": "2022",
+   "summary_reg": [
+    42543
+   ],
+   "summary_ballots": [
+    0
+   ]
+  },
+  {
+   "county": "Lancaster",
+   "election": "2022",
+   "summary_reg": [
+    69106
+   ],
+   "summary_ballots": [
+    34884
+   ]
+  },
+  {
+   "county": "Laurens",
+   "election": "2022",
+   "summary_reg": [
+    39620
+   ],
+   "summary_ballots": [
+    20000
+   ]
+  },
+  {
+   "county": "Lee",
+   "election": "2022",
+   "summary_reg": [
+    10591
+   ],
+   "summary_ballots": [
+    5350
+   ]
+  },
+  {
+   "county": "Lexington",
+   "election": "2022",
+   "summary_reg": [
+    192780
+   ],
+   "summary_ballots": [
+    100352
+   ]
+  },
+  {
+   "county": "Marion",
+   "election": "2022",
+   "summary_reg": [
+    21975
+   ],
+   "summary_ballots": [
+    8588
+   ]
+  },
+  {
+   "county": "Marlboro",
+   "election": "2022",
+   "summary_reg": [
+    16184
+   ],
+   "summary_ballots": [
+    6645
+   ]
+  },
+  {
+   "county": "McCormick",
+   "election": "2022",
+   "summary_reg": [
+    7561
+   ],
+   "summary_ballots": [
+    4636
+   ]
+  },
+  {
+   "county": "Newberry",
+   "election": "2022",
+   "summary_reg": [
+    0
+   ],
+   "summary_ballots": [
+    12942
+   ]
+  },
+  {
+   "county": "Oconee",
+   "election": "2022",
+   "summary_reg": [
+    53616
+   ],
+   "summary_ballots": [
+    29203
+   ]
+  },
+  {
+   "county": "Orangeburg",
+   "election": "2022",
+   "summary_reg": [
+    53371
+   ],
+   "summary_ballots": [
+    26534
+   ]
+  },
+  {
+   "county": "Pickens",
+   "election": "2022",
+   "summary_reg": [
+    75940
+   ],
+   "summary_ballots": [
+    40541
+   ]
+  },
+  {
+   "county": "Richland",
+   "election": "2022",
+   "summary_reg": [
+    271998
+   ],
+   "summary_ballots": [
+    128524
+   ]
+  },
+  {
+   "county": "Saluda",
+   "election": "2022",
+   "summary_reg": [
+    11566
+   ],
+   "summary_ballots": [
+    6664
+   ]
+  },
+  {
+   "county": "Spartanburg",
+   "election": "2022",
+   "summary_reg": [
+    201027
+   ],
+   "summary_ballots": [
+    97769
+   ]
+  },
+  {
+   "county": "Sumter",
+   "election": "2022",
+   "summary_reg": [
+    66282
+   ],
+   "summary_ballots": [
+    31062
+   ]
+  },
+  {
+   "county": "Union",
+   "election": "2022",
+   "summary_reg": [
+    16261
+   ],
+   "summary_ballots": [
+    8783
+   ]
+  },
+  {
+   "county": "Williamsburg",
+   "election": "2022",
+   "summary_reg": [
+    20185
+   ],
+   "summary_ballots": [
+    9973
+   ]
+  },
+  {
+   "county": "York",
+   "election": "2022",
+   "summary_reg": [
+    192515
+   ],
+   "summary_ballots": [
+    96726
+   ]
+  },
+  {
+   "county": "Abbeville",
+   "election": "2026",
+   "summary_reg": [
+    15697
+   ],
+   "summary_ballots": [
+    9084
+   ]
+  },
+  {
+   "county": "Aiken",
+   "election": "2026",
+   "summary_reg": [
+    116511
+   ],
+   "summary_ballots": [
+    68194
+   ]
+  },
+  {
+   "county": "Allendale",
+   "election": "2026",
+   "summary_reg": [
+    4392
+   ],
+   "summary_ballots": [
+    2545
+   ]
+  },
+  {
+   "county": "Anderson",
+   "election": "2026",
+   "summary_reg": [
+    130801
+   ],
+   "summary_ballots": [
+    74334
+   ]
+  },
+  {
+   "county": "Bamberg",
+   "election": "2026",
+   "summary_reg": [
+    7783
+   ],
+   "summary_ballots": [
+    4688
+   ]
+  },
+  {
+   "county": "Barnwell",
+   "election": "2026",
+   "summary_reg": [
+    12931
+   ],
+   "summary_ballots": [
+    7741
+   ]
+  },
+  {
+   "county": "Beaufort",
+   "election": "2026",
+   "summary_reg": [
+    142485
+   ],
+   "summary_ballots": [
+    86801
+   ]
+  },
+  {
+   "county": "Berkeley",
+   "election": "2026",
+   "summary_reg": [
+    162734
+   ],
+   "summary_ballots": [
+    91527
+   ]
+  },
+  {
+   "county": "Calhoun",
+   "election": "2026",
+   "summary_reg": [
+    10158
+   ],
+   "summary_ballots": [
+    6543
+   ]
+  },
+  {
+   "county": "Charleston",
+   "election": "2026",
+   "summary_reg": [
+    297698
+   ],
+   "summary_ballots": [
+    176277
+   ]
+  },
+  {
+   "county": "Cherokee",
+   "election": "2026",
+   "summary_reg": [
+    33897
+   ],
+   "summary_ballots": [
+    17793
+   ]
+  },
+  {
+   "county": "Chester",
+   "election": "2026",
+   "summary_reg": [
+    21882
+   ],
+   "summary_ballots": [
+    12144
+   ]
+  },
+  {
+   "county": "Chesterfield",
+   "election": "2026",
+   "summary_reg": [
+    26199
+   ],
+   "summary_ballots": [
+    13987
+   ]
+  },
+  {
+   "county": "Clarendon",
+   "election": "2026",
+   "summary_reg": [
+    21280
+   ],
+   "summary_ballots": [
+    13722
+   ]
+  },
+  {
+   "county": "Colleton",
+   "election": "2026",
+   "summary_reg": [
+    24563
+   ],
+   "summary_ballots": [
+    13863
+   ]
+  },
+  {
+   "county": "Darlington",
+   "election": "2026",
+   "summary_reg": [
+    41427
+   ],
+   "summary_ballots": [
+    23740
+   ]
+  },
+  {
+   "county": "Dillon",
+   "election": "2026",
+   "summary_reg": [
+    16731
+   ],
+   "summary_ballots": [
+    8896
+   ]
+  },
+  {
+   "county": "Dorchester",
+   "election": "2026",
+   "summary_reg": [
+    118085
+   ],
+   "summary_ballots": [
+    62634
+   ]
+  },
+  {
+   "county": "Edgefield",
+   "election": "2026",
+   "summary_reg": [
+    18101
+   ],
+   "summary_ballots": [
+    10877
+   ]
+  },
+  {
+   "county": "Fairfield",
+   "election": "2026",
+   "summary_reg": [
+    15608
+   ],
+   "summary_ballots": [
+    9768
+   ]
+  },
+  {
+   "county": "Florence",
+   "election": "2026",
+   "summary_reg": [
+    83185
+   ],
+   "summary_ballots": [
+    49388
+   ]
+  },
+  {
+   "county": "Georgetown",
+   "election": "2026",
+   "summary_reg": [
+    47419
+   ],
+   "summary_ballots": [
+    31214
+   ]
+  },
+  {
+   "county": "Greenville",
+   "election": "2026",
+   "summary_reg": [
+    348950
+   ],
+   "summary_ballots": [
+    216883
+   ]
+  },
+  {
+   "county": "Greenwood",
+   "election": "2026",
+   "summary_reg": [
+    41677
+   ],
+   "summary_ballots": [
+    24848
+   ]
+  },
+  {
+   "county": "Hampton",
+   "election": "2026",
+   "summary_reg": [
+    10959
+   ],
+   "summary_ballots": [
+    6765
+   ]
+  },
+  {
+   "county": "Horry",
+   "election": "2026",
+   "summary_reg": [
+    285790
+   ],
+   "summary_ballots": [
+    164970
+   ]
+  },
+  {
+   "county": "Jasper",
+   "election": "2026",
+   "summary_reg": [
+    35014
+   ],
+   "summary_ballots": [
+    17553
+   ]
+  },
+  {
+   "county": "Kershaw",
+   "election": "2026",
+   "summary_reg": [
+    42436
+   ],
+   "summary_ballots": [
+    0
+   ]
+  },
+  {
+   "county": "Lancaster",
+   "election": "2026",
+   "summary_reg": [
+    70861
+   ],
+   "summary_ballots": [
+    43036
+   ]
+  },
+  {
+   "county": "Laurens",
+   "election": "2026",
+   "summary_reg": [
+    41763
+   ],
+   "summary_ballots": [
+    23578
+   ]
+  },
+  {
+   "county": "Lee",
+   "election": "2026",
+   "summary_reg": [
+    9934
+   ],
+   "summary_ballots": [
+    6405
+   ]
+  },
+  {
+   "county": "Lexington",
+   "election": "2026",
+   "summary_reg": [
+    194215
+   ],
+   "summary_ballots": [
+    116604
+   ]
+  },
+  {
+   "county": "Marion",
+   "election": "2026",
+   "summary_reg": [
+    22651
+   ],
+   "summary_ballots": [
+    11398
+   ]
+  },
+  {
+   "county": "Marlboro",
+   "election": "2026",
+   "summary_reg": [
+    14229
+   ],
+   "summary_ballots": [
+    7289
+   ]
+  },
+  {
+   "county": "McCormick",
+   "election": "2026",
+   "summary_reg": [
+    7772
+   ],
+   "summary_ballots": [
+    5532
+   ]
+  },
+  {
+   "county": "Newberry",
+   "election": "2026",
+   "summary_reg": [
+    23696
+   ],
+   "summary_ballots": [
+    14497
+   ]
+  },
+  {
+   "county": "Oconee",
+   "election": "2026",
+   "summary_reg": [
+    54854
+   ],
+   "summary_ballots": [
+    32671
+   ]
+  },
+  {
+   "county": "Orangeburg",
+   "election": "2026",
+   "summary_reg": [
+    49877
+   ],
+   "summary_ballots": [
+    31111
+   ]
+  },
+  {
+   "county": "Pickens",
+   "election": "2026",
+   "summary_reg": [
+    77872
+   ],
+   "summary_ballots": [
+    45044
+   ]
+  },
+  {
+   "county": "Richland",
+   "election": "2026",
+   "summary_reg": [
+    281359
+   ],
+   "summary_ballots": [
+    162666
+   ]
+  },
+  {
+   "county": "Saluda",
+   "election": "2026",
+   "summary_reg": [
+    11831
+   ],
+   "summary_ballots": [
+    7055
+   ]
+  },
+  {
+   "county": "Spartanburg",
+   "election": "2026",
+   "summary_reg": [
+    217101
+   ],
+   "summary_ballots": [
+    120327
+   ]
+  },
+  {
+   "county": "Sumter",
+   "election": "2026",
+   "summary_reg": [
+    61192
+   ],
+   "summary_ballots": [
+    36736
+   ]
+  },
+  {
+   "county": "Union",
+   "election": "2026",
+   "summary_reg": [
+    16282
+   ],
+   "summary_ballots": [
+    9503
+   ]
+  },
+  {
+   "county": "Williamsburg",
+   "election": "2026",
+   "summary_reg": [
+    18838
+   ],
+   "summary_ballots": [
+    11827
+   ]
+  },
+  {
+   "county": "York",
+   "election": "2026",
+   "summary_reg": [
+    192508
+   ],
+   "summary_ballots": [
+    116685
+   ]
+  }
+ ]
+}

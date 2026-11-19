@@ -1,0 +1,57 @@
+{
+ "statewide": {
+  "2022": {
+   "gov": {
+    "REP": 988501,
+    "LIB": 20826,
+    "DEM": 692691,
+    "NON": 1174
+   },
+   "ballots": 1718626,
+   "reg": 3379089,
+   "timestamp": "11/17/2022 3:17:28 PM EST"
+  },
+  "2022_primary": {
+   "dem": 181590,
+   "rep": 368005,
+   "ballots": 565538,
+   "timestamp": "6/20/2022 4:48:58 PM EDT"
+  },
+  "2026": {
+   "gov": {
+    "UNC": 16125,
+    "GRN": 9078,
+    "REP": 1051334,
+    "DEM": 960534,
+    "NON": 1143
+   },
+   "ballots": 2054835,
+   "reg": 3438317,
+   "timestamp": "11/10/2026 5:20:31 PM EST"
+  },
+  "2026_primary": {
+   "dem": 371993,
+   "rep": 472956,
+   "ballots": 856005,
+   "timestamp": "6/12/2026 8:02:27 PM EDT"
+  }
+ },
+ "county_sum_equals_statewide": {
+  "2022": {
+   "dem": true,
+   "rep": true,
+   "ballots": true,
+   "reg": false,
+   "primdem": true,
+   "primrep": true
+  },
+  "2026": {
+   "dem": true,
+   "rep": true,
+   "ballots": true,
+   "reg": true,
+   "primdem": true,
+   "primrep": true
+  }
+ }
+}

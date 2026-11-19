@@ -1,0 +1,6 @@
+{"2022": {"dem": true, "rep": true, "ballots": true, "reg": false, "primdem": true, "primrep": true}, "2026": {"dem": true, "rep": true, "ballots": true, "reg": true, "primdem": true, "primrep": true}}
+46 counties x 18 figures
+ok
+built
+wiki table rows 46, checks 690, FAIL 0
+compare: 828 comparisons 827 matched 1 mismatched; analysis-figure mismatches: 0

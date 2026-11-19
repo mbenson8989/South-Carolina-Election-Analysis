@@ -1,0 +1,28 @@
+{
+ "counties": 46,
+ "figures_per_county": 18,
+ "total_comparisons": 828,
+ "matched": 827,
+ "mismatched": 1,
+ "mismatches": [
+  {
+   "county": "Clarendon",
+   "figure": "reg_2022",
+   "passA": 22043,
+   "passB": 21942,
+   "diff": 101
+  }
+ ],
+ "mismatches_in_analysis_figures": [],
+ "status_json_check": {
+  "2022": {
+   "reg_mismatch_vs_A": [],
+   "ballots_mismatch_vs_A": []
+  },
+  "2026": {
+   "reg_mismatch_vs_A": [],
+   "ballots_mismatch_vs_A": []
+  }
+ },
+ "CLEAN_analysis_figures": true
+}
